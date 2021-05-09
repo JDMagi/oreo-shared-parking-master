@@ -10,7 +10,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *  服务类
  * </p>
  *
- * @author GuanMingJian
+ * @author cjd
  * @since 2020-11-01
  */
 public interface UserService extends IService<User> {

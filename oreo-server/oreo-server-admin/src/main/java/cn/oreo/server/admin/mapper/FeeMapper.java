@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 
 /**
- * @author GuanMingJian
+ * @author cjd
  * @since 2021/3/1
  */
 public interface FeeMapper {

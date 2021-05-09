@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * String转Date 转换器
- * @author GuanMingJian
+ * @author cjd
  * @since 2020/12/14
  */
 @Component

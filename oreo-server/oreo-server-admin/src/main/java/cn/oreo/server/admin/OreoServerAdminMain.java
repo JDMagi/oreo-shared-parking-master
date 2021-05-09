@@ -12,7 +12,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author GuanMingJian
+ * @author cjd
  * @since 2020/10/5
  */
 @EnableTransactionManagement

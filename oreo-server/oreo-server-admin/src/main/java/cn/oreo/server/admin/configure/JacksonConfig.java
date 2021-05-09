@@ -11,7 +11,7 @@ import java.math.BigInteger;
 /**
  * 配置全局过滤器
  * 把Long类型序列化为String类型
- * @author GuanMingJian
+ * @author cjd
  * @since 2020/11/17
  */
 @Configuration

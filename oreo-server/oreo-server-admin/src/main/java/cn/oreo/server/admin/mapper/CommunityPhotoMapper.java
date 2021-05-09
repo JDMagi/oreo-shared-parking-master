@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  *  Mapper 接口
  * </p>
  *
- * @author GuanMingJian
+ * @author cjd
  * @since 2021-01-24
  */
 public interface CommunityPhotoMapper extends BaseMapper<CommunityPhoto> {

@@ -10,7 +10,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *  服务类
  * </p>
  *
- * @author GuanMingJian
+ * @author cjd
  * @since 2021-01-29
  */
 public interface OrderService extends IService<Order> {

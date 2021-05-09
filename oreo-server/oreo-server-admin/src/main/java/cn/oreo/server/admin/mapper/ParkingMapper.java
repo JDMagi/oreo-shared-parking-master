@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author GuanMingJian
+ * @author cjd
  * @since 2020/11/10
  */
 @Repository

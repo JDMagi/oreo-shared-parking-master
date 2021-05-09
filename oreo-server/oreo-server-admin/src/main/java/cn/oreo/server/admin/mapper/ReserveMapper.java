@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 预约表 Mapper 接口
  * </p>
  *
- * @author GuanMingJian
+ * @author cjd
  * @since 2021-01-22
  */
 public interface ReserveMapper extends BaseMapper<Reserve> {

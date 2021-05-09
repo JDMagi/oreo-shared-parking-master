@@ -15,7 +15,7 @@ import java.util.Map;
  *  服务类
  * </p>
  *
- * @author GuanMingJian
+ * @author cjd
  * @since 2020-10-30
  */
 public interface CommunityService extends IService<Community> {
